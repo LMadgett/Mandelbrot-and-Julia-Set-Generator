@@ -1,6 +1,7 @@
 # Mandelbrot and Julia set generator
 ## Features
 - utilises CUDA to provide efficient and fast generation of these fractals
+- uses raylib to plot images
 - allows you to generate an animation of the Julia sets between any two point on the Mandelbrot set
 - zoom in and out on the Mandelbrot set, as well as increasing and decreasing the maximum iterations before a point is considered to go to infinity
 
